@@ -22,8 +22,8 @@ I like turning ideas into things people actually use — from Spark pipelines to
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=codinnvrends&show_icons=true&count_private=true&theme=default" alt="GitHub stats" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=codinnvrends&layout=compact&langs_count=8&theme=default" alt="Top languages" />
+  <img height="170" src="https://github-readme-stats-six-seven.vercel.app/api?username=codinnvrends&show_icons=true&count_private=true&theme=default" alt="GitHub stats" />
+  <img height="170" src="https://github-readme-stats-six-seven.vercel.app/api/top-langs/?username=codinnvrends&layout=compact&langs_count=8&theme=default" alt="Top languages" />
 </p>
 
 <p align="center">
